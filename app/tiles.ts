@@ -45,4 +45,5 @@ export const tiles = [
   "Quag emoji",
   "But [insert Youtuber] said...",
   "Green leaf is a secret expert",
+  "Wants camera or lens wirh 10-30x zoom",
 ];
