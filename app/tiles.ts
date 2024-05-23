@@ -44,4 +44,5 @@ export const tiles = [
   "Are these presets worth [insert cost]",
   "Quag emoji",
   "But [insert Youtuber] said...",
+  "Green leaf is a secret expert",
 ];
