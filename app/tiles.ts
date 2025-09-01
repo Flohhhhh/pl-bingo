@@ -50,5 +50,6 @@ export const tiles = [
   "Largest lens topic",
   "TV lens reference",
   "Most expensive lens topic",
+  "Out-of-context 'Just buy [some expensive camera/lens]'",
 
 ];
