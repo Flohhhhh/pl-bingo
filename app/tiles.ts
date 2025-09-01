@@ -51,5 +51,6 @@ export const tiles = [
   "TV lens reference",
   "Most expensive lens topic",
   "Out-of-context 'Just buy [some expensive camera/lens]'",
+  "'I'm planning to get A6400'"
 
 ];
